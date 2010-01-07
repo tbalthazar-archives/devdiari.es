@@ -1,0 +1,57 @@
+<% unless @twitterer.profile_image_url.blank? %>
+<p>
+	<img src="<%= @twitterer.profile_image_url %>" alt="" />
+</p>
+<% end %>
+
+<h2>infos</h2>
+<p>
+	active :<br />
+	<%= @twitterer.active %>
+</p>
+<p>
+	twitterer id :<br />
+	<%= @twitterer.twitterer_id %>
+</p>
+<p>
+	twitterer created at :<br />
+	<%= @twitterer.twitterer_created_at %>
+</p>
+<p>
+	screen name :<br />
+	<%= @twitterer.screen_name %>
+</p>
+<p>
+	time zone :<br />
+	<%= @twitterer.time_zone %>
+</p>
+<p>
+	utc offset :<br />
+	<%= @twitterer.utc_offset %>
+</p>
+<p>
+	url :<br />
+	<%= link_to @twitterer.url unless @twitterer.url.blank? %>
+</p>
+<p>
+	location :<br />
+	<%= @twitterer.location %>
+</p>
+<p>
+	name :<br />
+	<%= @twitterer.name %>
+</p>
+<p>
+	description :<br />
+	<%= @twitterer.description %>
+</p>
+
+<h2>tweets</h2>
+<ul>
+	<% @twitterer.tweets.each { |tweet| %>
+	<li><%= link_to tweet.text, twitterer_tweet_path(@twitterer, tweet) %></li>
+	<% } %>
+</ul>
+
+<%= link_to 'Edit', edit_twitterer_path(@twitterer) %> |
+<%= link_to 'Back', twitterers_path %>

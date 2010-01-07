@@ -1,0 +1,14 @@
+<h1>Editing twitterer</h1>
+
+<% form_for(@twitterer) do |f| %>
+  <%= f.error_messages %>
+
+  <%= render :partial => "form", :locals => { :f => f } %>
+
+  <p>
+    <%= f.submit 'Update' %>
+  </p>
+<% end %>
+
+<%= link_to 'Show', @twitterer %> |
+<%= link_to 'Back', twitterers_path %>

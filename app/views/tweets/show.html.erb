@@ -1,0 +1,53 @@
+<p>
+  <b>Tweet:</b>
+  <%=h @tweet.tweet_id %>
+</p>
+
+<p>
+  <b>Twitterer id:</b>
+  <%=h @tweet.twitterer_id %>
+</p>
+
+<p>
+  <b>Twitterer:</b>
+  <%=h @tweet.twitterer.screen_name %>
+</p>
+
+<p>
+  <b>Text:</b>
+  <%=h @tweet.text %>
+</p>
+
+<p>
+  <b>Source:</b>
+  <%=h @tweet.source %>
+</p>
+
+<p>
+  <b>Truncated:</b>
+  <%=h @tweet.truncated %>
+</p>
+
+<p>
+  <b>In reply to status:</b>
+  <%=h @tweet.in_reply_to_status_id %>
+</p>
+
+<p>
+  <b>In reply to user:</b>
+  <%=h @tweet.in_reply_to_user_id %>
+</p>
+
+<p>
+  <b>Favorited:</b>
+  <%=h @tweet.favorited %>
+</p>
+
+<p>
+  <b>In reply to screen name:</b>
+  <%=h @tweet.in_reply_to_screen_name %>
+</p>
+
+
+<%= link_to 'Edit', edit_twitterer_tweet_path(@twitterer, @tweet) %> |
+<%= link_to 'Back', twitterer_tweets_path(@twitterer) %>

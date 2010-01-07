@@ -1,0 +1,36 @@
+<h1>Listing tweets</h1>
+
+<table>
+  <tr>
+    <th>Tweet</th>
+    <th>Twitterer</th>
+    <th>Text</th>
+    <th>Source</th>
+    <th>Truncated</th>
+    <th>In reply to status</th>
+    <th>In reply to user</th>
+    <th>Favorited</th>
+    <th>In reply to screen name</th>
+  </tr>
+
+<% @tweets.each do |tweet| %>
+  <tr>
+    <td><%=h tweet.tweet_id %></td>
+    <td><%=h tweet.twitterer_id %></td>
+    <td><%=h tweet.text %></td>
+    <td><%=h tweet.source %></td>
+    <td><%=h tweet.truncated %></td>
+    <td><%=h tweet.in_reply_to_status_id %></td>
+    <td><%=h tweet.in_reply_to_user_id %></td>
+    <td><%=h tweet.favorited %></td>
+    <td><%=h tweet.in_reply_to_screen_name %></td>
+    <td><%= link_to 'Show', twitterer_tweet_path(@twitterer, tweet) %></td>
+    <td><%= link_to 'Edit', edit_twitterer_tweet_path(@twitterer, tweet) %></td>
+    <td><%= link_to 'Destroy', twitterer_tweet_path(@twitterer, tweet), :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New tweet', new_twitterer_tweet_path(@twitterer) %>

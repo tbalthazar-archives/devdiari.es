@@ -1,0 +1,10 @@
+log/*
+config/database.yml
+config/passwd.yml
+.DS_Store
+tmp/*
+cappuccino/Build
+cappuccino/Frameworks/AppKit
+cappuccino/Frameworks/Debug
+cappuccino/Frameworks/Foundation
+cappuccino/Frameworks/Objective-J

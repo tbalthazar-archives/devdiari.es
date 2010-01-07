@@ -1,0 +1,11 @@
+* list twitterers :
+curl http://0.0.0.0:3000/twitterers.json
+
+* show twitterer :
+curl http://0.0.0.0:3000/twitterers/5.json
+
+* create twitterer :
+curl -H "Content-Type:application/json" -H "Accept:application/json" -d "{\"twitterer\": {\"screen_name\": \"tbalthazar\"}}" http://0.0.0.0:3000/twitterers
+
+* list tweets :
+curl http://0.0.0.0:3000/twitterers/7/tweets.json

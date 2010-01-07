@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statuses type="array">
+<status>
+  <created_at>Thu Nov 05 17:32:35 +0000 2009</created_at>
+  <id>5454884452</id>
+  <text>@boucher Are you guys staying in Brussels?</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id>5454607720</in_reply_to_status_id>
+  <in_reply_to_user_id>7549272</in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name>boucher</in_reply_to_screen_name>
+  <user>
+    <id>4466471</id>
+    <name>Thomas Balthazar</name>
+    <screen_name>tbalthazar</screen_name>
+    <location>Brussels, Belgium</location>
+    <description>Trumpet, code, records. http://byrecords.com / http://cappuccinocasts.com</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/490864814/Photo_on_2009-10-26_at_12.20_normal.jpg</profile_image_url>
+    <url>http://suitmymind.com/blog</url>
+    <protected>false</protected>
+    <followers_count>211</followers_count>
+    <profile_background_color>222222</profile_background_color>
+    <profile_text_color>222222</profile_text_color>
+    <profile_link_color>D4697E</profile_link_color>
+    <profile_sidebar_fill_color>CDCDCD</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C6C6C6</profile_sidebar_border_color>
+    <friends_count>150</friends_count>
+    <created_at>Fri Apr 13 07:16:55 +0000 2007</created_at>
+    <favourites_count>20</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Brussels</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1257373835/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>764</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Thu Nov 05 09:08:35 +0000 2009</created_at>
+  <id>5445531054</id>
+  <text>@FabriceN My pleasure ;-) Allez, j'ai m&#233;rit&#233; un caf&#233;. Ca faisait des heures que j'attendais cette minute!</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id>5445517692</in_reply_to_status_id>
+  <in_reply_to_user_id>32820290</in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name>FabriceN</in_reply_to_screen_name>
+  <user>
+    <id>4466471</id>
+    <name>Thomas Balthazar</name>
+    <screen_name>tbalthazar</screen_name>
+    <location>Brussels, Belgium</location>
+    <description>Trumpet, code, records. http://byrecords.com / http://cappuccinocasts.com</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/490864814/Photo_on_2009-10-26_at_12.20_normal.jpg</profile_image_url>
+    <url>http://suitmymind.com/blog</url>
+    <protected>false</protected>
+    <followers_count>211</followers_count>
+    <profile_background_color>222222</profile_background_color>
+    <profile_text_color>222222</profile_text_color>
+    <profile_link_color>D4697E</profile_link_color>
+    <profile_sidebar_fill_color>CDCDCD</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C6C6C6</profile_sidebar_border_color>
+    <friends_count>149</friends_count>
+    <created_at>Fri Apr 13 07:16:55 +0000 2007</created_at>
+    <favourites_count>20</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Brussels</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1257465343/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>764</statuses_count>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Thu Nov 05 09:02:47 +0000 2009</created_at>
+  <id>5445464540</id>
+  <text>@FabriceN Invitation sent!</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id>5445436641</in_reply_to_status_id>
+  <in_reply_to_user_id>32820290</in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name>FabriceN</in_reply_to_screen_name>
+  <user>
+    <id>4466471</id>
+    <name>Thomas Balthazar</name>
+    <screen_name>tbalthazar</screen_name>
+    <location>Brussels, Belgium</location>
+    <description>Trumpet, code, records. http://byrecords.com / http://cappuccinocasts.com</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/490864814/Photo_on_2009-10-26_at_12.20_normal.jpg</profile_image_url>
+    <url>http://suitmymind.com/blog</url>
+    <protected>false</protected>
+    <followers_count>211</followers_count>
+    <profile_background_color>222222</profile_background_color>
+    <profile_text_color>222222</profile_text_color>
+    <profile_link_color>D4697E</profile_link_color>
+    <profile_sidebar_fill_color>CDCDCD</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C6C6C6</profile_sidebar_border_color>
+    <friends_count>149</friends_count>
+    <created_at>Fri Apr 13 07:16:55 +0000 2007</created_at>
+    <favourites_count>20</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Brussels</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1257465343/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>764</statuses_count>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Thu Nov 05 08:57:30 +0000 2009</created_at>
+  <id>5445402698</id>
+  <text>Mockingbird, Cappuccino, and what really matters : http://bit.ly/QVGSq (via @tolmasky)</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>4466471</id>
+    <name>Thomas Balthazar</name>
+    <screen_name>tbalthazar</screen_name>
+    <location>Brussels, Belgium</location>
+    <description>Trumpet, code, records. http://byrecords.com / http://cappuccinocasts.com</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/490864814/Photo_on_2009-10-26_at_12.20_normal.jpg</profile_image_url>
+    <url>http://suitmymind.com/blog</url>
+    <protected>false</protected>
+    <followers_count>211</followers_count>
+    <profile_background_color>222222</profile_background_color>
+    <profile_text_color>222222</profile_text_color>
+    <profile_link_color>D4697E</profile_link_color>
+    <profile_sidebar_fill_color>CDCDCD</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C6C6C6</profile_sidebar_border_color>
+    <friends_count>150</friends_count>
+    <created_at>Fri Apr 13 07:16:55 +0000 2007</created_at>
+    <favourites_count>20</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Brussels</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1256928834/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>761</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Thu Nov 05 08:43:08 +0000 2009</created_at>
+  <id>5445243441</id>
+  <text>Publishing a Website with #jekyll is a real pleasure.</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>4466471</id>
+    <name>Thomas Balthazar</name>
+    <screen_name>tbalthazar</screen_name>
+    <location>Brussels, Belgium</location>
+    <description>Trumpet, code, records. http://byrecords.com / http://cappuccinocasts.com</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/490864814/Photo_on_2009-10-26_at_12.20_normal.jpg</profile_image_url>
+    <url>http://suitmymind.com/blog</url>
+    <protected>false</protected>
+    <followers_count>211</followers_count>
+    <profile_background_color>222222</profile_background_color>
+    <profile_text_color>222222</profile_text_color>
+    <profile_link_color>D4697E</profile_link_color>
+    <profile_sidebar_fill_color>CDCDCD</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C6C6C6</profile_sidebar_border_color>
+    <friends_count>150</friends_count>
+    <created_at>Fri Apr 13 07:16:55 +0000 2007</created_at>
+    <favourites_count>20</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Brussels</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1256928834/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>760</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Wed Nov 04 09:43:23 +0000 2009</created_at>
+  <id>5416574560</id>
+  <text>@saile We're sending out some beta invite every week. You can subscribe for the beta here http://cashflowapp.com/ Thanks!</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id>5416441483</in_reply_to_status_id>
+  <in_reply_to_user_id>15266337</in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name>saile</in_reply_to_screen_name>
+  <user>
+    <id>4466471</id>
+    <name>Thomas Balthazar</name>
+    <screen_name>tbalthazar</screen_name>
+    <location>Brussels, Belgium</location>
+    <description>Trumpet, code, records. http://byrecords.com / http://cappuccinocasts.com</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/490864814/Photo_on_2009-10-26_at_12.20_normal.jpg</profile_image_url>
+    <url>http://suitmymind.com/blog</url>
+    <protected>false</protected>
+    <followers_count>211</followers_count>
+    <profile_background_color>222222</profile_background_color>
+    <profile_text_color>222222</profile_text_color>
+    <profile_link_color>D4697E</profile_link_color>
+    <profile_sidebar_fill_color>CDCDCD</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C6C6C6</profile_sidebar_border_color>
+    <friends_count>149</friends_count>
+    <created_at>Fri Apr 13 07:16:55 +0000 2007</created_at>
+    <favourites_count>20</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Brussels</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1257465343/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>764</statuses_count>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Wed Nov 04 09:12:55 +0000 2009</created_at>
+  <id>5416219904</id>
+  <text>I'd need some feedback about this : #Cappuccino : building the jake branch http://j.mp/3Su5is</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>4466471</id>
+    <name>Thomas Balthazar</name>
+    <screen_name>tbalthazar</screen_name>
+    <location>Brussels, Belgium</location>
+    <description>Trumpet, code, records. http://byrecords.com / http://cappuccinocasts.com</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/490864814/Photo_on_2009-10-26_at_12.20_normal.jpg</profile_image_url>
+    <url>http://suitmymind.com/blog</url>
+    <protected>false</protected>
+    <followers_count>211</followers_count>
+    <profile_background_color>222222</profile_background_color>
+    <profile_text_color>222222</profile_text_color>
+    <profile_link_color>D4697E</profile_link_color>
+    <profile_sidebar_fill_color>CDCDCD</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C6C6C6</profile_sidebar_border_color>
+    <friends_count>149</friends_count>
+    <created_at>Fri Apr 13 07:16:55 +0000 2007</created_at>
+    <favourites_count>20</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Brussels</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1257465343/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>764</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Wed Nov 04 06:42:50 +0000 2009</created_at>
+  <id>5414419144</id>
+  <text>A new mockup application written in #cappuccino! :http://gomockingbird.com/mockingbird/ (via @tolmasky)</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>4466471</id>
+    <name>Thomas Balthazar</name>
+    <screen_name>tbalthazar</screen_name>
+    <location>Brussels, Belgium</location>
+    <description>Trumpet, code, records. http://byrecords.com / http://cappuccinocasts.com</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/490864814/Photo_on_2009-10-26_at_12.20_normal.jpg</profile_image_url>
+    <url>http://suitmymind.com/blog</url>
+    <protected>false</protected>
+    <followers_count>211</followers_count>
+    <profile_background_color>222222</profile_background_color>
+    <profile_text_color>222222</profile_text_color>
+    <profile_link_color>D4697E</profile_link_color>
+    <profile_sidebar_fill_color>CDCDCD</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C6C6C6</profile_sidebar_border_color>
+    <friends_count>149</friends_count>
+    <created_at>Fri Apr 13 07:16:55 +0000 2007</created_at>
+    <favourites_count>20</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Brussels</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1257465343/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>764</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Tue Nov 03 15:33:54 +0000 2009</created_at>
+  <id>5393865178</id>
+  <text>New in Snow Leopard: ALT-click on volume control in menubar &amp; you can quickly assign audio input/output without opening prefs (via @nickyp)</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>4466471</id>
+    <name>Thomas Balthazar</name>
+    <screen_name>tbalthazar</screen_name>
+    <location>Brussels, Belgium</location>
+    <description>Trumpet, code, records. http://byrecords.com / http://cappuccinocasts.com</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/490864814/Photo_on_2009-10-26_at_12.20_normal.jpg</profile_image_url>
+    <url>http://suitmymind.com/blog</url>
+    <protected>false</protected>
+    <followers_count>211</followers_count>
+    <profile_background_color>222222</profile_background_color>
+    <profile_text_color>222222</profile_text_color>
+    <profile_link_color>D4697E</profile_link_color>
+    <profile_sidebar_fill_color>CDCDCD</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C6C6C6</profile_sidebar_border_color>
+    <friends_count>149</friends_count>
+    <created_at>Fri Apr 13 07:16:55 +0000 2007</created_at>
+    <favourites_count>20</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Brussels</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1257465343/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>764</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Tue Nov 03 11:25:38 +0000 2009</created_at>
+  <id>5389169451</id>
+  <text>@saile Glad you appreciate :-)</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id>5389074873</in_reply_to_status_id>
+  <in_reply_to_user_id>15266337</in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name>saile</in_reply_to_screen_name>
+  <user>
+    <id>4466471</id>
+    <name>Thomas Balthazar</name>
+    <screen_name>tbalthazar</screen_name>
+    <location>Brussels, Belgium</location>
+    <description>Trumpet, code, records. http://byrecords.com / http://cappuccinocasts.com</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/490864814/Photo_on_2009-10-26_at_12.20_normal.jpg</profile_image_url>
+    <url>http://suitmymind.com/blog</url>
+    <protected>false</protected>
+    <followers_count>211</followers_count>
+    <profile_background_color>222222</profile_background_color>
+    <profile_text_color>222222</profile_text_color>
+    <profile_link_color>D4697E</profile_link_color>
+    <profile_sidebar_fill_color>CDCDCD</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C6C6C6</profile_sidebar_border_color>
+    <friends_count>149</friends_count>
+    <created_at>Fri Apr 13 07:16:55 +0000 2007</created_at>
+    <favourites_count>20</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Brussels</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1257465343/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>764</statuses_count>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Tue Nov 03 07:16:47 +0000 2009</created_at>
+  <id>5386264764</id>
+  <text>@tolmasky You can get the permission string with ls and awk : ls -ld file_or_dir_name | awk '{print $1}' Don't know if it helps ...</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id>5376104280</in_reply_to_status_id>
+  <in_reply_to_user_id>14581738</in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name>tolmasky</in_reply_to_screen_name>
+  <user>
+    <id>4466471</id>
+    <name>Thomas Balthazar</name>
+    <screen_name>tbalthazar</screen_name>
+    <location>Brussels, Belgium</location>
+    <description>Trumpet, code, records. http://byrecords.com / http://cappuccinocasts.com</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/490864814/Photo_on_2009-10-26_at_12.20_normal.jpg</profile_image_url>
+    <url>http://suitmymind.com/blog</url>
+    <protected>false</protected>
+    <followers_count>211</followers_count>
+    <profile_background_color>222222</profile_background_color>
+    <profile_text_color>222222</profile_text_color>
+    <profile_link_color>D4697E</profile_link_color>
+    <profile_sidebar_fill_color>CDCDCD</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C6C6C6</profile_sidebar_border_color>
+    <friends_count>149</friends_count>
+    <created_at>Fri Apr 13 07:16:55 +0000 2007</created_at>
+    <favourites_count>20</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Brussels</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1257465343/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>764</statuses_count>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Mon Nov 02 22:57:29 +0000 2009</created_at>
+  <id>5375514207</id>
+  <text>@idiosyncronaut thanks, appreciated!</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id>5373567949</in_reply_to_status_id>
+  <in_reply_to_user_id>18217950</in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name>idiosyncronaut</in_reply_to_screen_name>
+  <user>
+    <id>4466471</id>
+    <name>Thomas Balthazar</name>
+    <screen_name>tbalthazar</screen_name>
+    <location>Brussels, Belgium</location>
+    <description>Trumpet, code, records. http://byrecords.com / http://cappuccinocasts.com</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/490864814/Photo_on_2009-10-26_at_12.20_normal.jpg</profile_image_url>
+    <url>http://suitmymind.com/blog</url>
+    <protected>false</protected>
+    <followers_count>211</followers_count>
+    <profile_background_color>222222</profile_background_color>
+    <profile_text_color>222222</profile_text_color>
+    <profile_link_color>D4697E</profile_link_color>
+    <profile_sidebar_fill_color>CDCDCD</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C6C6C6</profile_sidebar_border_color>
+    <friends_count>149</friends_count>
+    <created_at>Fri Apr 13 07:16:55 +0000 2007</created_at>
+    <favourites_count>20</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Brussels</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1256928834/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>764</statuses_count>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Mon Nov 02 22:56:39 +0000 2009</created_at>
+  <id>5375494388</id>
+  <text>@saile My pleasure! ;-)</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id>5372113937</in_reply_to_status_id>
+  <in_reply_to_user_id>15266337</in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name>saile</in_reply_to_screen_name>
+  <user>
+    <id>4466471</id>
+    <name>Thomas Balthazar</name>
+    <screen_name>tbalthazar</screen_name>
+    <location>Brussels, Belgium</location>
+    <description>Trumpet, code, records. http://byrecords.com / http://cappuccinocasts.com</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/490864814/Photo_on_2009-10-26_at_12.20_normal.jpg</profile_image_url>
+    <url>http://suitmymind.com/blog</url>
+    <protected>false</protected>
+    <followers_count>211</followers_count>
+    <profile_background_color>222222</profile_background_color>
+    <profile_text_color>222222</profile_text_color>
+    <profile_link_color>D4697E</profile_link_color>
+    <profile_sidebar_fill_color>CDCDCD</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C6C6C6</profile_sidebar_border_color>
+    <friends_count>149</friends_count>
+    <created_at>Fri Apr 13 07:16:55 +0000 2007</created_at>
+    <favourites_count>20</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Brussels</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1257465343/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>764</statuses_count>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Mon Nov 02 19:59:39 +0000 2009</created_at>
+  <id>5371383621</id>
+  <text>The new #Cappuccino Cast is online : Playing with CPTableView : http://j.mp/CappCast11</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>4466471</id>
+    <name>Thomas Balthazar</name>
+    <screen_name>tbalthazar</screen_name>
+    <location>Brussels, Belgium</location>
+    <description>Trumpet, code, records. http://byrecords.com / http://cappuccinocasts.com</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/490864814/Photo_on_2009-10-26_at_12.20_normal.jpg</profile_image_url>
+    <url>http://suitmymind.com/blog</url>
+    <protected>false</protected>
+    <followers_count>211</followers_count>
+    <profile_background_color>222222</profile_background_color>
+    <profile_text_color>222222</profile_text_color>
+    <profile_link_color>D4697E</profile_link_color>
+    <profile_sidebar_fill_color>CDCDCD</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C6C6C6</profile_sidebar_border_color>
+    <friends_count>149</friends_count>
+    <created_at>Fri Apr 13 07:16:55 +0000 2007</created_at>
+    <favourites_count>20</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Brussels</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1257465343/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>764</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Sun Nov 01 19:57:50 +0000 2009</created_at>
+  <id>5344625076</id>
+  <text>@saile @jfahrenkrug Thanks guys!</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id>5343608302</in_reply_to_status_id>
+  <in_reply_to_user_id>15266337</in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name>saile</in_reply_to_screen_name>
+  <user>
+    <id>4466471</id>
+    <name>Thomas Balthazar</name>
+    <screen_name>tbalthazar</screen_name>
+    <location>Brussels, Belgium</location>
+    <description>Trumpet, code, records. http://byrecords.com / http://cappuccinocasts.com</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/490864814/Photo_on_2009-10-26_at_12.20_normal.jpg</profile_image_url>
+    <url>http://suitmymind.com/blog</url>
+    <protected>false</protected>
+    <followers_count>211</followers_count>
+    <profile_background_color>222222</profile_background_color>
+    <profile_text_color>222222</profile_text_color>
+    <profile_link_color>D4697E</profile_link_color>
+    <profile_sidebar_fill_color>CDCDCD</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C6C6C6</profile_sidebar_border_color>
+    <friends_count>149</friends_count>
+    <created_at>Fri Apr 13 07:16:55 +0000 2007</created_at>
+    <favourites_count>20</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Brussels</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1257465343/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>764</statuses_count>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Sun Nov 01 19:00:35 +0000 2009</created_at>
+  <id>5343443241</id>
+  <text>@saile CPTableView</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id>5343373629</in_reply_to_status_id>
+  <in_reply_to_user_id>15266337</in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name>saile</in_reply_to_screen_name>
+  <user>
+    <id>4466471</id>
+    <name>Thomas Balthazar</name>
+    <screen_name>tbalthazar</screen_name>
+    <location>Brussels, Belgium</location>
+    <description>Trumpet, code, records. http://byrecords.com / http://cappuccinocasts.com</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/490864814/Photo_on_2009-10-26_at_12.20_normal.jpg</profile_image_url>
+    <url>http://suitmymind.com/blog</url>
+    <protected>false</protected>
+    <followers_count>211</followers_count>
+    <profile_background_color>222222</profile_background_color>
+    <profile_text_color>222222</profile_text_color>
+    <profile_link_color>D4697E</profile_link_color>
+    <profile_sidebar_fill_color>CDCDCD</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C6C6C6</profile_sidebar_border_color>
+    <friends_count>149</friends_count>
+    <created_at>Fri Apr 13 07:16:55 +0000 2007</created_at>
+    <favourites_count>20</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Brussels</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1257465343/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>764</statuses_count>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Sun Nov 01 18:01:31 +0000 2009</created_at>
+  <id>5342245263</id>
+  <text>I just recorded a new #Cappuccino Cast. I still have to record my suave voice. I hope I can finish it tomorrow.</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>4466471</id>
+    <name>Thomas Balthazar</name>
+    <screen_name>tbalthazar</screen_name>
+    <location>Brussels, Belgium</location>
+    <description>Trumpet, code, records. http://byrecords.com / http://cappuccinocasts.com</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/490864814/Photo_on_2009-10-26_at_12.20_normal.jpg</profile_image_url>
+    <url>http://suitmymind.com/blog</url>
+    <protected>false</protected>
+    <followers_count>211</followers_count>
+    <profile_background_color>222222</profile_background_color>
+    <profile_text_color>222222</profile_text_color>
+    <profile_link_color>D4697E</profile_link_color>
+    <profile_sidebar_fill_color>CDCDCD</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C6C6C6</profile_sidebar_border_color>
+    <friends_count>149</friends_count>
+    <created_at>Fri Apr 13 07:16:55 +0000 2007</created_at>
+    <favourites_count>20</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Brussels</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1257465343/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>764</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Fri Oct 30 16:30:51 +0000 2009</created_at>
+  <id>5291405129</id>
+  <text>Great, my registration to the iPhone Tech Talk in Paris has been confirmed!</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>4466471</id>
+    <name>Thomas Balthazar</name>
+    <screen_name>tbalthazar</screen_name>
+    <location>Brussels, Belgium</location>
+    <description>Trumpet, code, records. http://byrecords.com / http://cappuccinocasts.com</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/490864814/Photo_on_2009-10-26_at_12.20_normal.jpg</profile_image_url>
+    <url>http://suitmymind.com/blog</url>
+    <protected>false</protected>
+    <followers_count>211</followers_count>
+    <profile_background_color>222222</profile_background_color>
+    <profile_text_color>222222</profile_text_color>
+    <profile_link_color>D4697E</profile_link_color>
+    <profile_sidebar_fill_color>CDCDCD</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C6C6C6</profile_sidebar_border_color>
+    <friends_count>149</friends_count>
+    <created_at>Fri Apr 13 07:16:55 +0000 2007</created_at>
+    <favourites_count>20</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Brussels</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1257465343/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>764</statuses_count>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Thu Oct 29 07:10:33 +0000 2009</created_at>
+  <id>5253393954</id>
+  <text>Some really great improvements have been made to the Webkit Inspector : http://bit.ly/2EhDMz</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>4466471</id>
+    <name>Thomas Balthazar</name>
+    <screen_name>tbalthazar</screen_name>
+    <location>Brussels, Belgium</location>
+    <description>Trumpet, code, records. http://byrecords.com / http://cappuccinocasts.com</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/490864814/Photo_on_2009-10-26_at_12.20_normal.jpg</profile_image_url>
+    <url>http://suitmymind.com/blog</url>
+    <protected>false</protected>
+    <followers_count>211</followers_count>
+    <profile_background_color>222222</profile_background_color>
+    <profile_text_color>222222</profile_text_color>
+    <profile_link_color>D4697E</profile_link_color>
+    <profile_sidebar_fill_color>CDCDCD</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C6C6C6</profile_sidebar_border_color>
+    <friends_count>149</friends_count>
+    <created_at>Fri Apr 13 07:16:55 +0000 2007</created_at>
+    <favourites_count>20</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Brussels</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1257465343/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>764</statuses_count>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+  </user>
+  <geo/>
+</status>
+<status>
+  <created_at>Wed Oct 28 08:04:23 +0000 2009</created_at>
+  <id>5225283619</id>
+  <text>The perfect Sunday morning song (with the greatest drum break ever around 1:50) : http://bit.ly/13cyzX</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>4466471</id>
+    <name>Thomas Balthazar</name>
+    <screen_name>tbalthazar</screen_name>
+    <location>Brussels, Belgium</location>
+    <description>Trumpet, code, records. http://byrecords.com / http://cappuccinocasts.com</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/490864814/Photo_on_2009-10-26_at_12.20_normal.jpg</profile_image_url>
+    <url>http://suitmymind.com/blog</url>
+    <protected>false</protected>
+    <followers_count>211</followers_count>
+    <profile_background_color>222222</profile_background_color>
+    <profile_text_color>222222</profile_text_color>
+    <profile_link_color>D4697E</profile_link_color>
+    <profile_sidebar_fill_color>CDCDCD</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C6C6C6</profile_sidebar_border_color>
+    <friends_count>149</friends_count>
+    <created_at>Fri Apr 13 07:16:55 +0000 2007</created_at>
+    <favourites_count>20</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Brussels</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1257465343/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>764</statuses_count>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+  </user>
+  <geo/>
+</status>
+</statuses>
