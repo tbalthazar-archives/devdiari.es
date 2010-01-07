@@ -681,7 +681,7 @@ objj_msgSend(label,"setTextShadowColor:",_d?selectedTextShadowColor:textShadowCo
 objj_msgSend(label,"setTextShadowOffset:",_d?CGSizeMake(0,-1.5):CGSizeMake(0,0.5));
 }
 })]);
-p;26;classes/views/HeaderView.jI;15;AppKit/CPView.jc;1752;
+p;26;classes/views/HeaderView.jI;15;AppKit/CPView.jc;1818;
 var _1=objj_allocateClassPair(CPView,"HeaderView"),_2=_1.isa;
 class_addIvars(_1,[new objj_ivar("headerTitle"),new objj_ivar("aboutButton")]);
 objj_registerClassPair(_1);
@@ -709,7 +709,7 @@ objj_msgSend(_3,"addSubview:",aboutButton);
 }
 }),new objj_method(sel_getUid("about:"),function(_8,_9,_a){
 with(_8){
-window.open("http://suitmymind.com");
+window.open("http://suitmymind.com/blog/2010/01/07/devdiaries-a-sample-cappuccino-rails-application/");
 }
 })]);
 p;25;classes/views/MonthView.jI;15;AppKit/CPView.jc;455;

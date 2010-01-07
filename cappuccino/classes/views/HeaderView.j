@@ -46,7 +46,7 @@
 
 - (void)about:(id)sender
 {
-    window.open("http://suitmymind.com");
+    window.open("http://suitmymind.com/blog/2010/01/07/devdiaries-a-sample-cappuccino-rails-application/");
 }
 
 @end

@@ -5,7 +5,7 @@
 
 
 == Install
-- git clone xxx
+- git clone git://github.com/suitmymind/devdiari.es.git
 - cd devdiari.es
 - copy or symlink Cappuccino frameworks (AppKit, Foundation and Objective-J) in cappuccino/Frameworks/
 - use config/database.yml.sample to create your config/database.yml file
